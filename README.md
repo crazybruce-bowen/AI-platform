@@ -31,7 +31,7 @@
   - 普通用户进行用户名，密码修改等操作
 
 ## 部署框架
-- ![image](assets/images/部署架构图.jpg)
+- ![image](assets/image/部署架构图.jpg)
 
 ## 代码架构
 - 后端基于Django框架，各组件独立实现各自功能，互相解耦
